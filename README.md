@@ -1,2 +1,3 @@
 # Project VS Code
 This repo is connected to GitHub from VS Code.
+Cloned repo works ✅
