@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+*.code-workspace
+
+# Logs/temp
+*.log
+*.tmp
+*.swp
+
+# Build / sim outputs (common EDA tools)
+work/
+worklib/
+simv*
+csrc/
+urgReport/
+*.vcd
+*.fsdb
+*.wlf
+transcript
+questa_lib/
+modelsim.ini
+*.jou
+*.str
+*.pb
+*.bit
+*.mif
+*.hex
+.dbg/
+.cache/
+.out/
+build/
+dist/
